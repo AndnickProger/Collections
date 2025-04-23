@@ -11,3 +11,4 @@
  deque_vector.h - A deque based on a dynamic array.    
  stack_list.h - A stack built on the basis of a singly linked list.   
  stack_vector.h - A stack built on the basis of a dynamic array.   
+ hash_table.h - A hash table where chains are used to resolve collisions.     
