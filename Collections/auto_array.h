@@ -8,6 +8,7 @@
 #include <iostream>
 #include <iterator>
 #include <array>
+#include <string>
 
 namespace bice
 {
@@ -870,3 +871,4 @@ namespace bice
 }
 
 #endif //INC_3DGAME_AUTO_ARRAY_H
+
